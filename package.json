@@ -20,5 +20,9 @@
   "homepage": "https://github.com/Arcanaut/u-develop-it#readme",
   "devDependencies": {
     "jest": "^27.4.5"
+  },
+  "dependencies": {
+    "express": "^4.17.2",
+    "mysql2": "^2.3.3"
   }
 }
